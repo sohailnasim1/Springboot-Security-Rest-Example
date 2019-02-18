@@ -56,7 +56,6 @@ http://localhost:8888/swagger-ui.html
 
 ```
 Authorization:Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJqZG9lIiwidXNlcklkIjoiamRvZSIsInJvbGUiOlsiYWRtaW4iLCJ1c2VyIl0sImV4cCI6MTg2NTk3MDY5MywiaWF0IjoxNTUwMzUxNDkzLCJqdGkiOiI2OTc0N2EwYy01MGYxLTQ3ZDctOWNlYS1hZGFkNGY2Yjg5ZWQifQ.airDwI93k_y8CPrAKgfuzDLAx5pv9x4co0Web4FX3N4shHn_NhZEGSx1Uk8cPFPxAfcyr9DKyhrBCi5LTUPniw
-
 ```
 
 * POST: http://localhost:8888/users
@@ -65,7 +64,6 @@ Authorization:Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJqZG9lIiwidXNlcklkIjoiamRvZS
 
 ```
 Authorization:Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJqZG9lIiwidXNlcklkIjoiamRvZSIsInJvbGUiOlsiYWRtaW4iLCJ1c2VyIl0sImV4cCI6MTg2NTk3MDY5MywiaWF0IjoxNTUwMzUxNDkzLCJqdGkiOiI2OTc0N2EwYy01MGYxLTQ3ZDctOWNlYS1hZGFkNGY2Yjg5ZWQifQ.airDwI93k_y8CPrAKgfuzDLAx5pv9x4co0Web4FX3N4shHn_NhZEGSx1Uk8cPFPxAfcyr9DKyhrBCi5LTUPniw
-
 ```
 
 **Request:**
@@ -90,7 +88,6 @@ Body:
 
 ```
 Authorization:Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJqZG9lIiwidXNlcklkIjoiamRvZSIsInJvbGUiOlsiYWRtaW4iLCJ1c2VyIl0sImV4cCI6MTg2NTk3MDY5MywiaWF0IjoxNTUwMzUxNDkzLCJqdGkiOiI2OTc0N2EwYy01MGYxLTQ3ZDctOWNlYS1hZGFkNGY2Yjg5ZWQifQ.airDwI93k_y8CPrAKgfuzDLAx5pv9x4co0Web4FX3N4shHn_NhZEGSx1Uk8cPFPxAfcyr9DKyhrBCi5LTUPniw
-
 ```
 
 **Response:**
@@ -112,7 +109,6 @@ Authorization:Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJqZG9lIiwidXNlcklkIjoiamRvZS
 
 ```
 Authorization:Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJqZG9lIiwidXNlcklkIjoiamRvZSIsInJvbGUiOlsiYWRtaW4iLCJ1c2VyIl0sImV4cCI6MTg2NTk3MDY5MywiaWF0IjoxNTUwMzUxNDkzLCJqdGkiOiI2OTc0N2EwYy01MGYxLTQ3ZDctOWNlYS1hZGFkNGY2Yjg5ZWQifQ.airDwI93k_y8CPrAKgfuzDLAx5pv9x4co0Web4FX3N4shHn_NhZEGSx1Uk8cPFPxAfcyr9DKyhrBCi5LTUPniw
-
 ```
 
 
@@ -122,7 +118,6 @@ Authorization:Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJqZG9lIiwidXNlcklkIjoiamRvZS
 
 ```
 Authorization:Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJqZG9lIiwidXNlcklkIjoiamRvZSIsInJvbGUiOlsiYWRtaW4iLCJ1c2VyIl0sImV4cCI6MTg2NTk3MDY5MywiaWF0IjoxNTUwMzUxNDkzLCJqdGkiOiI2OTc0N2EwYy01MGYxLTQ3ZDctOWNlYS1hZGFkNGY2Yjg5ZWQifQ.airDwI93k_y8CPrAKgfuzDLAx5pv9x4co0Web4FX3N4shHn_NhZEGSx1Uk8cPFPxAfcyr9DKyhrBCi5LTUPniw
-
 ```
 
 
