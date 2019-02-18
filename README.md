@@ -51,6 +51,7 @@ http://localhost:8888/swagger-ui.html
 ## Examples
 
 * GET: http://localhost:8888/users
+
 **Header:**
 
 ```
