@@ -95,7 +95,6 @@ Authorization:Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJqZG9lIiwidXNlcklkIjoiamRvZS
 ```
 {
     "username": "jdoe",
-    "password": "password",
     "firstName": "John",
     "lastName": "Doe",
     "emailAddress": "jdoe@youremaildomain.com",
