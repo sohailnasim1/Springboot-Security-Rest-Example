@@ -48,6 +48,15 @@ java -jar target/UserAdmin-0.0.1-SNAPSHOT.jar
 ## API documentation for Rest service
 http://localhost:8888/swagger-ui.html
 
+##Token Generation
+The token given in the examples below is valid for 10 years. 
+
+You can also use following project to genererate JWT token
+
+[Springboot-Token-Generation-Example](https://github.com/sohailnasim1/Springboot-Token-Generation-Example)
+
+
+
 ## Examples
 
 * GET: http://localhost:8888/users
