@@ -48,7 +48,7 @@ java -jar target/UserAdmin-0.0.1-SNAPSHOT.jar
 ## API documentation for Rest service
 http://localhost:8888/swagger-ui.html
 
-##Token Generation
+## Token Generation
 The token given in the examples below is valid for 10 years. 
 
 You can also use following project to genererate JWT token
